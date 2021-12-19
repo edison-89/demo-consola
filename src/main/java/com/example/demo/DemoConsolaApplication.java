@@ -18,6 +18,7 @@ public class DemoConsolaApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		LOG.error("Prueba");
+		LOG.error("Prueba 2");
 	}
 
 }
